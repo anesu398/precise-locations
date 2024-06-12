@@ -1,0 +1,21 @@
+{
+  "name": "precise-locations",
+  "version": "1.0.0",
+  "description": "A package that provides locations with their precise coordinates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/precise-locations.git"
+  },
+  "keywords": [
+    "locations",
+    "coordinates",
+    "latitude",
+    "longitude"
+  ],
+  "author": "Anesu Ndava",
+  "license": "ISC"
+}
