@@ -17,5 +17,8 @@
     "longitude"
   ],
   "author": "Anesu Ndava",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "haversine-distance": "^1.2.3"
+  }
 }
