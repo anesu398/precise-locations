@@ -1,6 +1,6 @@
 {
   "name": "precise-locations",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A package that provides locations with their precise coordinates",
   "main": "index.js",
   "scripts": {
